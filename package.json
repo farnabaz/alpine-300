@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "resolutions": {
-    "nuxt-component-meta": "^0.6.2"
+    "nuxt-component-meta": "^0.6.3"
   },
   "devDependencies": {
     "@nuxt-themes/alpine": "latest",
